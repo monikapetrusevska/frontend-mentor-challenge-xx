@@ -1,0 +1,1 @@
+This is a web site with a card in the center with a QR code and text in the middle.
